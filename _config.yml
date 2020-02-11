@@ -19,9 +19,11 @@ sidebar-avatar:  /img/20150224215248_Cf3cz.jpeg     # use absolute URL, seeing i
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     星空无疆
-github_username:   LXY-freshman 
-
+zhihu_username:     
+github_username:   LXY-freshman
+#facebook_username:  
+#jianshu_username:   
+#twitter_username:   
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
