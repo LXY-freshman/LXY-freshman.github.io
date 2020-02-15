@@ -1,7 +1,7 @@
 # Site settings
 title: LXY Blog
 SEOTitle: LXY的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk-1.jpg
 email: 3041642086@qq.com
 description: "To C or not to C,this is a question."
 keyword: "萌新，Linux，嵌入式"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "这是什么!"
-sidebar-avatar:  /img/20150224215248_Cf3cz.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:  /img/avatar_gufeng.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
